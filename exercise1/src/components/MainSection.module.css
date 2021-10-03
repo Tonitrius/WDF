@@ -1,0 +1,44 @@
+.backGround {
+    background-color: rgb(206, 206, 206);
+    height: 930px;
+    line-height: 24px;
+    width: 1431px;
+}
+
+.bigText {
+    font-size: 26px;
+    font-weight: 700;
+    color: rgb(0, 81, 141);
+}
+
+.container {
+    background-color: white;
+    color: black;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    height: 530px;
+    width: 640px;
+    padding: 8px;
+}
+
+
+.container2 {
+    line-height: 24px;
+    padding: 16px;
+    align-items: center;
+}
+
+.category {
+    color: rgb(72, 72, 72);
+    font-size: 15px;
+    font-weight: 400;
+    margin-right: 8px;
+}
+
+.timeStamp {
+    color: rgb(72, 72, 72);
+    font-size: 15px;
+    font-weight: 400;
+}
